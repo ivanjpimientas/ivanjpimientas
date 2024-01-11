@@ -1,7 +1,7 @@
 # Hi 👋 My name is Iván José Pimienta Serrano
 # Software Developer and Maker
 * 🌍  I'm based in Bogotá/Colombia
-* 🖥️  See my portfolio at [Mi portfolio](http://portfolio.aidevsystems.net)
+* 🖥️  See my portfolio at [My portfolio](http://portfolio.aidevsystems.net)
 * ✉️  You can contact me at [ivanjpimientas.developer@gmail.com](mailto:ivanjpimientas.developer@gmail.com)
 
 <a href="https://www.x.com/aidevsystems" target="_blank" rel="noreferrer"><img
